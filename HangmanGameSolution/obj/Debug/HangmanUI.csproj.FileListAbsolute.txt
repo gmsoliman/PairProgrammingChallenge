@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\2-GoldBadge\Hangman_Game\HangmanGameSolution\HangmanGameSolution\obj\Debug\HangmanUI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\2-GoldBadge\Hangman_Game\HangmanGameSolution\HangmanGameSolution\obj\Debug\HangmanUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\2-GoldBadge\Hangman_Game\HangmanGameSolution\HangmanGameSolution\bin\Debug\HangmanGameSolution.exe.config
+C:\ElevenFiftyProjects\2-GoldBadge\Hangman_Game\HangmanGameSolution\HangmanGameSolution\bin\Debug\HangmanGameSolution.exe
+C:\ElevenFiftyProjects\2-GoldBadge\Hangman_Game\HangmanGameSolution\HangmanGameSolution\bin\Debug\HangmanGameSolution.pdb
+C:\ElevenFiftyProjects\2-GoldBadge\Hangman_Game\HangmanGameSolution\HangmanGameSolution\obj\Debug\HangmanGameSolution.exe
+C:\ElevenFiftyProjects\2-GoldBadge\Hangman_Game\HangmanGameSolution\HangmanGameSolution\obj\Debug\HangmanGameSolution.pdb
